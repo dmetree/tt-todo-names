@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "task": "Buy Bitcoin",
+        "author": "Elon",
+        "email": "elon@space.com"
+    },
+    {
+        "id": 2,
+        "task": "Buy Ethereum",
+        "author": "Tom",
+        "email": "tom@home.com"
+    },
+    {
+        "id": 3,
+        "task": "Buy Ripple",
+        "author": "Jim",
+        "email": "tom@work.com"
+    },
+    {
+        "id": 4,
+        "task": "Buy Litecoin",
+        "author": "Tom",
+        "email": "tom@home.com"
+    },
+    {
+        "id": 5,
+        "task": "Buy Dogecoin",
+        "author": "Elon",
+        "email": "elon@space.com"
+    },
+    {
+        "id": 6,
+        "task": "Buy Monero",
+        "author": "Tom",
+        "email": "tom@home.com"
+    },
+    {
+        "id": 7,
+        "task": "Buy Zcash",
+        "author": "Tom",
+        "email": "tom@home.com"
+    },
+    {
+        "id": 8,
+        "task": "Buy Ada",
+        "author": "Jim",
+        "email": "tom@work.com"
+    }
+]
