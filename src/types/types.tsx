@@ -2,7 +2,9 @@
 
 export interface ITodo {
     id: number;
-    title: string;
-    completed: boolean;
+    task: string;
+    auther: string;
+    email: string;
+    display: boolean;
     onClick: () => void;
 }

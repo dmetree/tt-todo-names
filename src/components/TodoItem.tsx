@@ -11,8 +11,7 @@ const TodoItem: FC<TodoItemProps> = ({todo}) => {
 
   return (
     <div onClick={() => history.push('/' + todo.id)}>
-      {/* {todo.id}.  */}
-      {todo.title}
+      {todo.task}
     </div>
   );
 };
